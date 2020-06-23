@@ -1,0 +1,19 @@
+h1{
+    color:rgb(9, 127, 136);
+    margin: 20px
+}
+*{
+    border: solid
+}
+body{
+    background-color: #ffffff;
+}
+a:link{
+color: red;
+}
+a:visited{
+    color: black;
+}
+.menu a{
+    padding-left: 10px
+}
